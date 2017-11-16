@@ -1,0 +1,6 @@
+Question: 
+Figure out why the program stopped running when we used 
+Thread.sleep(), and we right clicked/marked the DOS window.
+
+Answer:
+I think the problem is Windows-specific. Because I ran the program on my secondary OS (Ubuntu 16.04 LTS) and it ran without any problem. The program did NOT stop/pause.
